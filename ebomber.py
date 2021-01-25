@@ -23,7 +23,7 @@ class bcolors:
     
 #HEADER
 
-print(bcolors.OKBLUE + '''
+print(bcolors.OKGREEN + '''
 ______ ____                  _
 | ____| __ )  ___  _ __ ___ | |__   ___ _ __
 |  _| |  _ \ / _ \| '_ ` _ \| '_ \ / _ | '__|
