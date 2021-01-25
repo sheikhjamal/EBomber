@@ -1,6 +1,6 @@
 ### EBomber
 Email Bomber, all in one.
-[!] Only supports gmail and yahoo for now. [!]
+[!] Only supports Gmail and Yahoo for now. [!]
 Make sure that your email has less secure apps sign in on.
 ## Linux Installation
 - Download python.
