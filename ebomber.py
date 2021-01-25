@@ -32,7 +32,7 @@ ______ ____                  _
  
 [!] Only use this tool for educational purposes. [!]   
 
-Make sure your gmail has less secure apps on (https://myaccount.google.com/lesssecureapps)
+Make sure your gmail has less secure apps...
 
 ''' + bcolors.ENDC)
 
