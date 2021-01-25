@@ -11,3 +11,12 @@ Make sure that your email has less secure apps sign in on.
 ```cd EBomber```
 - Run the python program
 ```python ebomber.py```
+## Windows Installation
+- Download python.
+```pip install python```
+-Clone the git repository.
+```git clone https://github.com/sheikhjamal/EBomber```
+- Navigate to the EBomber folder.
+```cd EBomber```
+- Run the python program.
+```python ebomber.py```
